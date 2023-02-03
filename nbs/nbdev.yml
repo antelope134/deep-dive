@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "deep-dive"
+  site-url: "https://antelope134.github.io/deep-dive"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/antelope134/deep-dive"
